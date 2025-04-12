@@ -12,7 +12,7 @@ on:
   repository_dispatch:
 
 env:
-  REPO_TOKEN: ${{ secrets.kai_token }}
+  REPO_TOKEN: ${{ secrets.TOKEN_KIDDIN9 }}
   SCKEY: None
   TELEGRAM_TOKEN: None
   TELEGRAM_CHAT_ID: None
